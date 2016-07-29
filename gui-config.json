@@ -1,0 +1,25 @@
+{
+"configs" : [
+  {
+"server" : "",
+"server_port" : 8388,
+"password" : "",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "45.58.60.52",
+"server_port" : 12910,
+"password" : "liu56356200",
+"method" : "rc4-md5",
+"remarks" : ""}
+
+],
+"index" : 1,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false}
